@@ -1,2 +1,2 @@
-# olá, Mundo
- Primeiro repositório curso em video de GitHub
+# Projeto site
+ Projeto de um site criado durante o curso de Git e GitHub
