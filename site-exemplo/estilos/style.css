@@ -16,3 +16,14 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.363);
 }
+
+h1 {
+    font-size: 1.8em;
+    text-align: center;
+    text-shadow: 3px 3px 11px #00000066;
+}
+
+h2 {
+    font-size: 1.4em;
+    padding: 4px;
+}
